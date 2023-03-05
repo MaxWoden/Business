@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Open+Sans:wght@300;400;600;700&display=swap");
+@import url("../fonts/font-awesome-4.7.0/css/font-awesome.css");
+@import url("../fonts/gotham/stylesheet.css");
+@import url("../fonts//BrandontGrotesque-Bold/BrandonGrotesque.css");
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  text-decoration: none;
+  list-style-type: none;
+  box-sizing: border-box;
+}
+
+button {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  cursor: pointer;
+}
+
+img {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+
+body {
+  color: #fff;
+}/*# sourceMappingURL=nullstyle.css.map */
